@@ -54,37 +54,31 @@ npm install
 npm run dev
 
 ---
+---
 
 ## 👨‍💻 About the Developer
 
-```jsx
-// About the Developer - JSX (React Component)
-import React from 'react';
+Hi! I'm **Pitani Madhusayi Krishna Maheshwara Prakash Rao** — a dedicated and enthusiastic **B.Tech CSE (AI & DS)** student at **Bonam Venkata Chalamayya Engineering College**, Andhra Pradesh. 🎓  
+I’m deeply passionate about **AI 🤖, Cloud ☁️, and Full Stack Software Development 💻**.
 
-export default function AboutDeveloper() {
-  return (
-    <section className="max-w-4xl mx-auto my-16 bg-white p-8 rounded-2xl shadow-lg border border-indigo-200">
-      <h2 className="text-3xl font-bold text-indigo-700 mb-4 text-center">
-        👨‍💻 About the Developer
-      </h2>
-      <div className="text-gray-700 text-lg leading-relaxed space-y-4">
-        <p>
-          Hello! I'm <span className="font-semibold text-indigo-600">P. Madhusayi</span>, a passionate <strong>B.Tech CSE (AI & DS)</strong> student from
-          <span className="text-blue-600 font-medium"> Bonam Venkata Chalamayya Engineering College</span>, Andhra Pradesh. 🚀
-        </p>
-        <p>
-          I enjoy building intelligent applications that merge Artificial Intelligence with beautiful user interfaces.
-          My interests lie in web development, machine learning, and solving real-world problems through code. 💡
-        </p>
-        <p>
-          When I’m not coding, I’m exploring new technologies, contributing to open source, or refining my UI/UX design skills. 🎨
-        </p>
-        <p>
-          📧 Email: madhusaipitani95@gmail.com <br />
-          🏫 Branch: CSE (AI & Data Science) <br />
-          📍 Location: India 🇮🇳
-        </p>
-      </div>
-    </section>
-  );
-}
+### 🌟 What I Do:
+- 🔐 Cybersecurity Enthusiast | Penetration Testing | Network Security
+- 🌐 Full Stack Developer (MERN, Django, Python)
+- 📱 Android App Developer (Java & Kotlin)
+- ☁️ Cloud Solutions using AWS, IBM Cloud
+- 🧠 AI & ML Development using TensorFlow, scikit-learn
+
+### 📚 Technical Stack:
+- **Languages**: Python, JavaScript, Java, C, C++
+- **Frameworks**: React, Node.js, Django, MERN
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Tools**: GitHub, AWS, IBM Cloud, OpenWeatherMap API
+- **Soft Skills**: Leadership 💪, Problem Solving 🧩, Adaptability 🌱
+
+### 📬 Contact Me:
+- 📧 Email: madhusaitani95@gmail.com  
+- 📱 Phone: +91 8247824565  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pitani-madhusayi)  
+- 💻 [GitHub](https://github.com/pitani-madhusayi)
+
+> _"Striving to build a smarter world through code and creativity."_ ✨
