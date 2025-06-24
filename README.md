@@ -40,22 +40,6 @@
 - A browser 🔍
 - Optional: Gemini API Key (for summaries)
 
-### ⚙️ Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/github-explorer.git
-cd github-explorer
-
-# 2. Install dependencies
-npm install
-
-# 3. Start the dev server
-npm run dev
-
----
----
-
 ## 👨‍💻 About the Developer
 
 Hi! I'm **Pitani Madhusayi Krishna Maheshwara Prakash Rao** — a dedicated and enthusiastic **B.Tech CSE (AI & DS)** student at **Bonam Venkata Chalamayya Engineering College**, Andhra Pradesh. 🎓  
@@ -82,3 +66,21 @@ I’m deeply passionate about **AI 🤖, Cloud ☁️, and Full Stack Software D
 - 💻 [GitHub](https://github.com/pitani-madhusayi)
 
 > _"Striving to build a smarter world through code and creativity."_ ✨
+
+
+### ⚙️ Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/github-explorer.git
+cd github-explorer
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the dev server
+npm run dev
+
+---
+---
+
