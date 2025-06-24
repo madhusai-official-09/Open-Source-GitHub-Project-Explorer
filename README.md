@@ -52,3 +52,39 @@ npm install
 
 # 3. Start the dev server
 npm run dev
+
+---
+
+## 👨‍💻 About the Developer
+
+```jsx
+// About the Developer - JSX (React Component)
+import React from 'react';
+
+export default function AboutDeveloper() {
+  return (
+    <section className="max-w-4xl mx-auto my-16 bg-white p-8 rounded-2xl shadow-lg border border-indigo-200">
+      <h2 className="text-3xl font-bold text-indigo-700 mb-4 text-center">
+        👨‍💻 About the Developer
+      </h2>
+      <div className="text-gray-700 text-lg leading-relaxed space-y-4">
+        <p>
+          Hello! I'm <span className="font-semibold text-indigo-600">P. Madhusayi</span>, a passionate <strong>B.Tech CSE (AI & DS)</strong> student from
+          <span className="text-blue-600 font-medium"> Bonam Venkata Chalamayya Engineering College</span>, Andhra Pradesh. 🚀
+        </p>
+        <p>
+          I enjoy building intelligent applications that merge Artificial Intelligence with beautiful user interfaces.
+          My interests lie in web development, machine learning, and solving real-world problems through code. 💡
+        </p>
+        <p>
+          When I’m not coding, I’m exploring new technologies, contributing to open source, or refining my UI/UX design skills. 🎨
+        </p>
+        <p>
+          📧 Email: madhusaipitani95@gmail.com <br />
+          🏫 Branch: CSE (AI & Data Science) <br />
+          📍 Location: India 🇮🇳
+        </p>
+      </div>
+    </section>
+  );
+}
